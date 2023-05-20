@@ -444,6 +444,7 @@ form{
   }
   .buy-properties{
     position: unset;
+    margin-top: 20px;
   }
   .btn-properties{
     margin-bottom: 30px;
