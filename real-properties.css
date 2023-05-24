@@ -478,6 +478,9 @@ header button:hover a{
     font-size:23px;
   }
   @media(max-width:900px){
+      .our-properties{
+      padding-top: 120px;
+    }
     .our-properties h4{
       font-size:30px;
       margin-top:10px;
